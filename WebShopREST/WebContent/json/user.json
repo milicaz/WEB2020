@@ -1,0 +1,3 @@
+[{"id":1,"username":"admin","password":"123","firstName":"Mirko","lastName":"Ivic","gender":"male","role":"admin"},
+{"id":2,"username":"ica","password":"123","firstName":"Ivana","lastName":"Ivic","gender":"female","role":"host"},
+{"id":3,"username":"mare","password":"123","firstName":"Mario","lastName":"Matic","gender":"male","role":"guest"}]
